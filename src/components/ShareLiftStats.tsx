@@ -25,9 +25,9 @@ const ShareLiftStats = () => {
       {/* Stats Container */}
       <ElectricBorder
         color="#3fefe9"
-        speed={0.6}
-        chaos={0.2}
-        thickness={1}
+        speed={0.4}
+        chaos={0.1}
+        thickness={0.5}
         style={{ borderRadius: 16 }}
       >
         <div className="flex items-center justify-between gap-8 rounded-2xl bg-white/[0.04]   px-8 py-6">

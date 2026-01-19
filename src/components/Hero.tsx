@@ -34,6 +34,11 @@ const texts = [
 ];
 
 const Hero = () => {
+  const viewportWidth =
+    window.innerWidth ||
+    document.documentElement.clientWidth ||
+    document.body.clientWidth;
+
   return (
     <div className="relative w-full min-h-screen overflow-hidden flex items-center justify-center">
       <LightRays
@@ -49,7 +54,7 @@ const Hero = () => {
         className="absolute inset-0 z-0"
       />
 
-      <div className=" text-white relative z-10 flex flex-col items-center justify-center h-full px-16 ">
+      <div className=" text-white relative z-10 flex flex-col items-center justify-center h-full px-8 md:px-16 ">
         <h1 className=" text-5xl md:text-6xl font-bold tracking-tight">
           Hi I&apos;m
         </h1>
@@ -59,12 +64,12 @@ const Hero = () => {
         >
           Raunak
         </h1>
-        <MorphingText className="mt-2 mb-6" texts={texts} />
+        <MorphingText className="mt-2 mb-2 md:mb-6" texts={texts} />
         <p
-          className={`${inter.className} w-full  md:mt-4 text text-sm text-center md:text-xl text-gray-300 leading-relaxed`}
+          className={`${inter.className} w-full  md:mt-4  text-sm text-center md:text-xl text-gray-300 leading-relaxed`}
         >
-          Passionate about creating end-to-end solutions for real-world problems{" "}
-          <br />
+          Passionate about creating end-to-end solutions for real-world problems
+          {viewportWidth > 480 ? <br /> : " . "}
           Focused on engineering scalable systems, clean UX, and delivering user
           value
         </p>

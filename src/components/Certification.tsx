@@ -28,17 +28,15 @@ const Certification = () => {
       />
 
       <div className="grid gap-10 md:grid-cols-2 items-start">
-        {/* Certificate Image */}
-        <div className="rounded-2xl  overflow-hidden border border-white/10 bg-white/[0.03]">
+        <div className=" rounded-2xl overflow-hidden border border-white/10 bg-white/[0.03]">
           <img
-            data-aos="zoom-out-up"
+            data-aos="fade-up"
             src="/mongodbCert.png"
             alt="MongoDB Associate DBA Certificate"
-            className="w-full h-auto md:h-72 object-fit"
+            className=" w-full h-auto md:h-72 object-fit transition duration-500 ease-out hover:scale-[1.02]   "
           />
         </div>
 
-        {/* Certificate Details */}
         <div className="flex flex-col justify-center">
           <h3 data-aos="fade-up" className="text-2xl font-semibold text-white">
             MongoDB Associate Database Administrator
