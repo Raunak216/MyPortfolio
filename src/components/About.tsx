@@ -46,7 +46,7 @@ const About = () => {
           Full-Stack Developer, I work with the MERN stack and enjoy building
           scalable, user-focused applications.
         </p>
-        {/* Education Section */}
+        {/* Education */}
         <div className="mt-20">
           <div className="flex items-center gap-4 mb-8">
             <img

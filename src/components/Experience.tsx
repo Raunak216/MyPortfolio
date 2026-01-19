@@ -51,9 +51,9 @@ const Experience = () => {
           data-aos="fade-up"
           className="text-gray-300 leading-relaxed max-w-4xl"
         >
-          As a core frontend member, I contributed to building and maintaining
-          frontend components for the chapter’s hackathon platform, ensuring
-          smooth user experience and reliability during high student traffic.
+          As a core frontend member, I contributed to building frontend
+          components for the chapter’s hackathon platform, ensuring smooth user
+          experience and reliability during high student traffic.
         </p>
 
         <ul className="list-disc list-inside space-y-2 text-gray-300">
