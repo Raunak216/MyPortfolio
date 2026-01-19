@@ -1,0 +1,27 @@
+[
+  {
+    "image": "/mindspace.png",
+    "title": "MindSpace",
+    "subTitle": " Real-Time Video Communication System",
+    "desc": "A student friendly platform to study together virtually",
+    "tech": ["Socket.io", "React", "Node js", "MongoDB", "Jwt", "Render"],
+    "demo": "https://mindspace-web-rtc-videocall.vercel.app/",
+    "code": "https://github.com/Raunak216/Mindspace-WebRTC-Videocall-"
+  },
+  {
+    "image": "/airbnb.png",
+    "title": "WanderLust",
+    "subTitle": " Airbnb-Style Travel Listing Platform",
+    "desc": "A full-stack web application for exploring, listing, and reviewing travel stays",
+    "tech": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "EJS",
+      "Bootstrap",
+      "Passport.js"
+    ],
+    "demo": "https://wander-lust-seven-gamma.vercel.app/listings",
+    "code": "https://github.com/Raunak216/WanderLust"
+  }
+]

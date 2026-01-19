@@ -1,0 +1,66 @@
+[
+  {
+    "image": "/react-2.svg",
+    "title": "React"
+  },
+  {
+    "image": "/next2svg.svg",
+    "title": "Next js"
+  },
+  {
+    "image": "/tailwind.png",
+    "title": "tailwind"
+  },
+  {
+    "image": "/muisvg.svg",
+    "title": "Material UI"
+  },
+  {
+    "image": "/javascript.png",
+    "title": "JS"
+  },
+  {
+    "image": "/expresssvg.svg",
+    "title": "Express"
+  },
+  {
+    "image": "/node.js.svg",
+    "title": "Node JS"
+  },
+  {
+    "image": "/mongodb.png",
+    "title": "MongoDB"
+  },
+
+  {
+    "image": "/jwtsvg.svg",
+    "title": "JWT"
+  },
+
+  {
+    "image": "/socketsvg.svg",
+    "title": "Socket IO"
+  },
+
+  {
+    "image": "/gitsvg.svg",
+    "title": "Git"
+  },
+  {
+    "image": "/githubsvg.svg",
+    "title": "Github"
+  },
+
+  {
+    "image": "/vercel.svg",
+    "title": "Vercel"
+  },
+  {
+    "image": "/awssvg2.svg",
+    "title": "AWS"
+  },
+  {
+    "image": "/cloudRunsvg.svg",
+    "title": "CloudRun"
+  }
+]

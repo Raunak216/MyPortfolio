@@ -1,0 +1,20 @@
+[
+  {
+    "image": "/shareliftss.png",
+    "title": "Sharelift",
+    "subTitle": "Campus Travel Grouping Platform ",
+    "desc": "developed a solution to unify fragmented travel coordination at my university. The platform replaces isolated WhatsApp groups, ensuring students can efficiently find ride-share partners during vacations.",
+    "tech": [
+      "React",
+      "Node js",
+      "MongoDB",
+      "Jwt",
+      "OAuth 2.0",
+      "NodeMailer",
+      "Google Cloud Platform",
+      "AWS SES"
+    ],
+    "demo": "sharelift.in",
+    "code": "https://github.com/Raunak216/ShareLift"
+  }
+]
