@@ -23,7 +23,7 @@ const Experience = () => {
           data-aos="fade-up"
           className="text-3xl lg:text-4xl font-bold bg-gradient-to-r from-white via-blue-100 to-cyan-500 bg-clip-text text-transparent"
         >
-          Experience
+          Technical Involvement
         </h2>
       </div>
       <div
@@ -35,25 +35,21 @@ const Experience = () => {
         <div className="flex flex-col md:flex-row md:items-center md:justify-between">
           <div>
             <h3 data-aos="fade-up" className="text-xl font-bold text-white">
-              Frontend Developer
+              CodeChef-VIT, Chapter
             </h3>
             <p data-aos="fade-up" className="text-blue-400 font-semibold">
-              Core Member - CodeChef VIT Chapter
+              Core Member (Frontend)
             </p>
           </div>
-
-          <p data-aos="fade-up" className="text-sm text-gray-400 mt-2 md:mt-0">
-            2024 - 2025
-          </p>
         </div>
 
         <p
           data-aos="fade-up"
           className="text-gray-300 leading-relaxed max-w-4xl"
         >
-          As a core frontend member, I contributed to building frontend
-          components for the chapter’s hackathon platform, ensuring smooth user
-          experience and reliability during high student traffic.
+          As a core member, I contributed to building frontend components for
+          the chapter’s hackathon platform, ensuring smooth user experience and
+          reliability during high student traffic.
         </p>
 
         <ul className="list-disc list-inside space-y-2 text-gray-300">
@@ -67,8 +63,8 @@ const Experience = () => {
             practices
           </li>
           <li data-aos="fade-up">
-            Collaborated closely with team members to deliver features under
-            deadlines
+            Collaborated closely with team members to deliver features tight
+            timelines
           </li>
         </ul>
       </div>
