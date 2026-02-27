@@ -7,9 +7,9 @@ const MorphingText = dynamic(
 );
 
 const texts = [
-  "Loading resources…",
-  "Initializing application…",
-  "Finalizing setup…",
+  "Compiling skills...",
+  "Debugging perfection...",
+  "Deploying creativity...",
 ];
 export default function Preloader() {
   return (

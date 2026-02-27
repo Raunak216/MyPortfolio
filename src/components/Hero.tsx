@@ -75,14 +75,6 @@ const Hero = () => {
         </p>
 
         <div className="mt-6 flex gap-4 justify-center items-center">
-          <a href="https://github.com/Raunak216" target="_blank">
-            <img
-              className="w-8 h-8 opacity-80 hover:opacity-100 hover:rotate-15 transition rounded-3xl"
-              src="githubsvg.svg"
-              alt="Github"
-            />
-          </a>
-
           <a href="https://www.linkedin.com/in/raunak-216k" target="_blank">
             <img
               className="w-8 h-8 opacity-80 hover:opacity-100 hover:rotate-15 transition rounded-3xl"
@@ -99,6 +91,13 @@ const Hero = () => {
               className="w-8 h-8 opacity-80 hover:opacity-100 hover:rotate-15 transition rounded-3xl"
               src="gmail.svg"
               alt="Gmail"
+            />
+          </a>
+          <a href="https://github.com/Raunak216" target="_blank">
+            <img
+              className="w-8 h-8 opacity-80 hover:opacity-100 hover:rotate-15 transition rounded-3xl"
+              src="githubsvg.svg"
+              alt="Github"
             />
           </a>
           <a href="https://leetcode.com/u/Raunak_216/" target="_blank">
