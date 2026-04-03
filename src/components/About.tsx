@@ -9,7 +9,12 @@ const inter = Inter({
   weight: ["400", "500"],
 });
 const About = () => {
-  const couseWork = ["Java", "DSA", "Cloud Computing", "Probability & Stats"];
+  const couseWork = [
+    "Java",
+    "DSA",
+    "Cloud Computing (AWS)",
+    "Probability & Stats",
+  ];
   useEffect(() => {
     AOS.init({
       duration: 500,
@@ -42,8 +47,8 @@ const About = () => {
           Aspiring Software Engineer and Full-Stack Developer enjoys breaking
           down complex problems and turning them into efficient, scalable
           solutions. I actively strengthen my DSA and problem-solving skills,
-          aiming to write code that is both performant and maintainable. As a
-          Full-Stack Developer, I work with the MERN stack and enjoy building
+          solved 400+ questions across LeetCode and Codeforces. As a Full-Stack
+          Developer, I primarily work with the MERN stack and enjoy building
           scalable, user-focused applications.
         </p>
         {/* Education */}
