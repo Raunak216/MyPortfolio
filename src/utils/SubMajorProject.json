@@ -4,9 +4,27 @@
     "title": "MindSpace",
     "subTitle": " Real-Time Video Communication System",
     "desc": "A student friendly platform to study together virtually",
-    "tech": ["Socket.io", "React", "Node js", "MongoDB", "Jwt", "Render"],
+    "tech": ["Socket.io", "React", "Node js", "MongoDB", "Jwt", "Vercel"],
     "demo": "https://mindspace-web-rtc-videocall.vercel.app/",
     "code": "https://github.com/Raunak216/Mindspace-WebRTC-Videocall-"
+  },
+  {
+    "image": "/portfolio.png",
+    "title": "Student Portfolio",
+    "subTitle": "From learning to creating.",
+    "desc": "My journey through code, creativity, and progress.",
+    "tech": ["Next.js", "Typescript", "Tailwind CSS", "Vercel"],
+    "demo": "https://my-portfolio-gamma-nine-12.vercel.app/",
+    "code": "https://github.com/Raunak216/MyPortfolio"
+  },
+  {
+    "image": "/calender.png",
+    "title": "Calender",
+    "subTitle": "Plan your days, effortlessly.",
+    "desc": "Keep schedules clear with tasks and pinned dates.",
+    "tech": ["Next.js", "Typescript", "Tailwind CSS", "Vercel"],
+    "demo": "https://calender-app-sooty-theta.vercel.app/",
+    "code": "https://github.com/Raunak216/CalenderApp"
   },
   {
     "image": "/airbnb.png",
